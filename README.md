@@ -1,5 +1,9 @@
 Introducing LibreTranslate
 
+(this addon is completely open source)
+
+get the workshop version here: https://steamcommunity.com/sharedfiles/filedetails/?id=3611412860
+
 Features:
 
 /tr (and the text goes here, it will be copied to clipboard so press ctrl+v to copy the translated text into the chat)
