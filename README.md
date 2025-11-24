@@ -1,6 +1,6 @@
 Introducing LibreTranslate
 
-(this addon is completely open source)
+(this addon is completely open source, this is the github version)
 
 get the workshop version here: https://steamcommunity.com/sharedfiles/filedetails/?id=3611412860
 
